@@ -13,11 +13,20 @@
 - Es todo lo relacionado a las redes neuronales. Se llama aprendizaje profundo porque a mayor capas conectadas ente sí se obtiene un aprendizaje más fino.
 - Por la gran cantidad de procesos internos desconocidos, no sabemos como podríamos manejar lo que hace el algoritmo.
 
-![image](https://user-images.githubusercontent.com/105569600/217381698-e0d5ef7c-cf3c-4996-8558-10d7d931e465.png)
+![image](https://github.com/angelcaceres7450/Fundamentos-de-Redes-Neuronales-con-Python-y-Keras/blob/main/Imagen/Deep_Learning.png)
 
+## Flujo de trabajo
 
-En el Deep learning existen dos grandes problemas:
+- Flujo del Machine Learning: feature Engineering (tratamiento de datos) -> Clasificacion -> Output
 
-Overfitting: Es cuando el algoritmo “memoriza” los datos y la red neuronal no sabe generalizar.
+- Deep Learning: Feature Engineering -> Clasificación -> Output
 
-Caja negra: Nosotros conocemos las entradas a las redes neuronales. Sim embargo, no conocemos que es lo que pasa dentro de las capas intermedias de la red.
+![image](https://github.com/angelcaceres7450/Fundamentos-de-Redes-Neuronales-con-Python-y-Keras/blob/main/Imagen/MachineLearning_vs_DeepLearning.png)
+
+## Desventajas del Deep Learning
+
+- Tienden al overfitting: Complejizar una red neuronal es muy fácil y por tanto es muy fácil caer en overfitting
+
+- Son Cajas Negras: Al ser algortimos complejos, no es nada fácil saber qué hacen internamente.
+
+![image](https://github.com/angelcaceres7450/Fundamentos-de-Redes-Neuronales-con-Python-y-Keras/blob/main/Imagen/Problemas_Deep_Learning.png)
