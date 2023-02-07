@@ -1,0 +1,33 @@
+# ¿Qué es Deep Learning?
+
+## La inteligencia artificial
+
+- Son los intentos de replicar la inteligencia humana en sistemas artificiales.
+
+## Machine learning
+
+- Son las técnicas de aprendizaje automático, en donde mismo sistema aprende como encontrar una respuesta sin que alguien lo este programando.
+- Podemos entender como funciona, así que podemos defenderlo o tratarlo.
+
+## Deep learning
+
+- Es todo lo relacionado a las redes neuronales. Se llama aprendizaje profundo porque a mayor capas conectadas ente sí se obtiene un aprendizaje más fino.
+- Por la gran cantidad de procesos internos desconocidos, no sabemos como podríamos manejar lo que hace el algoritmo.
+
+![image](https://github.com/angelcaceres7450/Fundamentos-de-Redes-Neuronales-con-Python-y-Keras/blob/main/Imagen/Deep_Learning.png)
+
+## Flujo de trabajo
+
+- Flujo del Machine Learning: feature Engineering (tratamiento de datos) -> Clasificacion -> Output
+
+- Deep Learning: Feature Engineering -> Clasificación -> Output
+
+![image](https://github.com/angelcaceres7450/Fundamentos-de-Redes-Neuronales-con-Python-y-Keras/blob/main/Imagen/MachineLearning_vs_DeepLearning.png)
+
+## Desventajas del Deep Learning
+
+- Tienden al overfitting: Complejizar una red neuronal es muy fácil y por tanto es muy fácil caer en overfitting
+
+- Son Cajas Negras: Al ser algortimos complejos, no es nada fácil saber qué hacen internamente.
+
+![image](https://github.com/angelcaceres7450/Fundamentos-de-Redes-Neuronales-con-Python-y-Keras/blob/main/Imagen/Problemas_Deep_Learning.png)
